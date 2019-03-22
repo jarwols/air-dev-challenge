@@ -4,11 +4,11 @@ A basic camera app built in React Native. Allows for video recording and uploadi
 ## Getting Started
 
 **Mostly automatic install for iOS**
-1. ```git clone https://github.com/jarwols/air-dev-challenge.git```
+1. ```git clone https://github.com/jarwols/camera-challenge.git```
 2. ```npm install```
 3. ```react-native run-ios```
 
-![air gif](https://github.com/jarwols/air-dev-challenge/blob/master/assets/Air.gif?raw=true)
+![air gif](https://github.com/jarwols/camera-challenge/blob/master/assets/Air.gif?raw=true)
  
  **Recording Video**
 
