@@ -1,5 +1,5 @@
-## air-dev-challenge
-iOS Development Challenge for Air exhibiting a basic camera app built in React Native. Allows for video recording and uploading to a remote AWS S3 bucket. For access to the S3 bucket, please reach out to Jared at **jaredwols@gmail.com**
+## Camera Challenge
+A basic camera app built in React Native. Allows for video recording and uploading to a remote AWS S3 bucket. For access to the S3 bucket, please reach out to Jared at **jaredwols@gmail.com**
 
 ## Getting Started
 
